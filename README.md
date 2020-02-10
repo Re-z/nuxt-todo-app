@@ -1,6 +1,10 @@
 # nuxt-todo-app
+## Description
+Simple todo app, based on Nuxt.js
 
-> My glorious Nuxt.js project
+## Techstack
+- Nuxt.js
+- Vuetify
 
 ## Build Setup
 
@@ -19,4 +23,3 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
