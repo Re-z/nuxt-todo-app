@@ -3,8 +3,9 @@
 Simple todo app, based on Nuxt.js
 
 ## Techstack
-- Nuxt.js
+- Nuxt.js + Vuex store
 - Vuetify
+
 
 ## Build Setup
 
